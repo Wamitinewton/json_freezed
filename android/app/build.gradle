@@ -24,7 +24,7 @@ if (flutterVersionName == null) {
 }
 
 android {
-    namespace = "com.example.freezed"
+    namespace = "com.example.freezed_test"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
